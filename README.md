@@ -13,6 +13,7 @@ Data is stored **in memory**, meaning it resets every time the server restarts.
 
 ##  Getting Started
 - git clone https://github.com/pjoshi1812/backendAssignment1.git
+- cd backendAssignment1
 - npm install
 - node app.js
 Server will start on http://localhost:3000.
